@@ -1,0 +1,29 @@
+<annotation>
+	<folder></folder>
+	<filename>ch0_20250511153904_20250511154404_f00135_jpg.rf.fb54e71c4f7aa1293a5960fddcb0f7fd.jpg</filename>
+	<path>ch0_20250511153904_20250511154404_f00135_jpg.rf.fb54e71c4f7aa1293a5960fddcb0f7fd.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cam-oto-re-phai</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>537</xmin>
+			<xmax>545</xmax>
+			<ymin>208</ymin>
+			<ymax>218</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>

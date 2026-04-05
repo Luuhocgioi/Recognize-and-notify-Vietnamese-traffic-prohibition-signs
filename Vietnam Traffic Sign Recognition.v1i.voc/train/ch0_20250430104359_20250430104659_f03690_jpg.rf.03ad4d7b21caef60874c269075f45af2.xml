@@ -1,0 +1,29 @@
+<annotation>
+	<folder></folder>
+	<filename>ch0_20250430104359_20250430104659_f03690_jpg.rf.03ad4d7b21caef60874c269075f45af2.jpg</filename>
+	<path>ch0_20250430104359_20250430104659_f03690_jpg.rf.03ad4d7b21caef60874c269075f45af2.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>duong-nguoi-di-bo-sang-ngang-1</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>373</xmin>
+			<xmax>381</xmax>
+			<ymin>240</ymin>
+			<ymax>249</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>

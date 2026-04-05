@@ -1,0 +1,29 @@
+<annotation>
+	<folder></folder>
+	<filename>ch0_20250511163759_20250511164259_f04706_jpg.rf.9a2d2058ba11bbf6b2dcb0c22cba6a18.jpg</filename>
+	<path>ch0_20250511163759_20250511164259_f04706_jpg.rf.9a2d2058ba11bbf6b2dcb0c22cba6a18.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cam-oto-re-trai</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>319</xmin>
+			<xmax>331</xmax>
+			<ymin>191</ymin>
+			<ymax>202</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>

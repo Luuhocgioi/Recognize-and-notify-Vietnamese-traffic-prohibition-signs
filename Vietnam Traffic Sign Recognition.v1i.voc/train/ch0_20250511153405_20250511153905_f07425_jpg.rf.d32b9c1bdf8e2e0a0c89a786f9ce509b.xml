@@ -1,0 +1,29 @@
+<annotation>
+	<folder></folder>
+	<filename>ch0_20250511153405_20250511153905_f07425_jpg.rf.d32b9c1bdf8e2e0a0c89a786f9ce509b.jpg</filename>
+	<path>ch0_20250511153405_20250511153905_f07425_jpg.rf.d32b9c1bdf8e2e0a0c89a786f9ce509b.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>toc-do-toi-da-60</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>552</xmin>
+			<xmax>559</xmax>
+			<ymin>189</ymin>
+			<ymax>200</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>

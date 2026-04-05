@@ -1,0 +1,29 @@
+<annotation>
+	<folder></folder>
+	<filename>ch0_20250430101655_20250430101955_f00010_jpg.rf.3ee46e68dab95a9ffc41d9b11ea7d0ce.jpg</filename>
+	<path>ch0_20250430101655_20250430101955_f00010_jpg.rf.3ee46e68dab95a9ffc41d9b11ea7d0ce.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>het-khu-dong-dan-cu</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>375</xmin>
+			<xmax>390</xmax>
+			<ymin>238</ymin>
+			<ymax>249</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>

@@ -1,0 +1,29 @@
+<annotation>
+	<folder></folder>
+	<filename>ch0_20250430101955_20250430102256_f00680_jpg.rf.5ac694093d80763a0e168f881450823f.jpg</filename>
+	<path>ch0_20250430101955_20250430102256_f00680_jpg.rf.5ac694093d80763a0e168f881450823f.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cam-oto-quay-dau-xe</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>428</xmin>
+			<xmax>440</xmax>
+			<ymin>234</ymin>
+			<ymax>246</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>

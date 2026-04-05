@@ -1,0 +1,29 @@
+<annotation>
+	<folder></folder>
+	<filename>ch0_20250504163332_20250504163632_f04060_jpg.rf.7ec4f35279daa63c3468364f36d43c9d.jpg</filename>
+	<path>ch0_20250504163332_20250504163632_f04060_jpg.rf.7ec4f35279daa63c3468364f36d43c9d.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>noi-giao-nhau-chay-theo-vong-xuyen</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>443</xmin>
+			<xmax>455</xmax>
+			<ymin>224</ymin>
+			<ymax>237</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>

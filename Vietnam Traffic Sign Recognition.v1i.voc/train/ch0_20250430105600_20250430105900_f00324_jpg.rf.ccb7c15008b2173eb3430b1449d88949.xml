@@ -1,0 +1,29 @@
+<annotation>
+	<folder></folder>
+	<filename>ch0_20250430105600_20250430105900_f00324_jpg.rf.ccb7c15008b2173eb3430b1449d88949.jpg</filename>
+	<path>ch0_20250430105600_20250430105900_f00324_jpg.rf.ccb7c15008b2173eb3430b1449d88949.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cam-dung-xe-va-do-xe</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>623</xmin>
+			<xmax>632</xmax>
+			<ymin>194</ymin>
+			<ymax>209</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>

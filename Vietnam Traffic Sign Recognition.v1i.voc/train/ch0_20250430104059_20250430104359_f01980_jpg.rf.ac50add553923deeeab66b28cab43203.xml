@@ -1,0 +1,29 @@
+<annotation>
+	<folder></folder>
+	<filename>ch0_20250430104059_20250430104359_f01980_jpg.rf.ac50add553923deeeab66b28cab43203.jpg</filename>
+	<path>ch0_20250430104059_20250430104359_f01980_jpg.rf.ac50add553923deeeab66b28cab43203.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bat-dau-khu-dong-dan-cu</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>338</xmin>
+			<xmax>346</xmax>
+			<ymin>250</ymin>
+			<ymax>257</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>

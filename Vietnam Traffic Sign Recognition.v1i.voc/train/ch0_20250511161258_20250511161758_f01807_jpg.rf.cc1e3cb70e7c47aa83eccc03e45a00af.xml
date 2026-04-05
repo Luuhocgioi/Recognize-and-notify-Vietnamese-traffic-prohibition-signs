@@ -1,0 +1,29 @@
+<annotation>
+	<folder></folder>
+	<filename>ch0_20250511161258_20250511161758_f01807_jpg.rf.cc1e3cb70e7c47aa83eccc03e45a00af.jpg</filename>
+	<path>ch0_20250511161258_20250511161758_f01807_jpg.rf.cc1e3cb70e7c47aa83eccc03e45a00af.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cam-do-xe</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>558</xmin>
+			<xmax>570</xmax>
+			<ymin>168</ymin>
+			<ymax>186</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>
