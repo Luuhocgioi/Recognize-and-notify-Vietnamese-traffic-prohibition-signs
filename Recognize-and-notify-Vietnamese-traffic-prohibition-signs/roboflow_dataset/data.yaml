@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 33
+names: ['bat-dau-duong-cao-toc', 'bat-dau-khu-dong-dan-cu', 'cac-xe-chi-duoc-di-thang', 'cac-xe-chi-duoc-re-trai', 'cam-di-nguoc-chieu', 'cam-do-xe', 'cam-dung-xe-va-do-xe', 'cam-oto', 'cam-oto-quay-dau-xe', 'cam-oto-re-phai', 'cam-oto-re-trai', 'cam-quay-dau-xe', 'cam-re-phai', 'cam-re-trai', 'cam-re-trai-va-re-phai', 'cam-su-dung-coi', 'cam-vuot', 'duong-nguoi-di-bo-sang-ngang-1', 'het-cam-vuot', 'het-han-che-toc-do-toi-da', 'het-khu-dong-dan-cu', 'het-tat-ca-cac-lenh-cam', 'huong-phai-di-vong-chuong-ngai-vat-1', 'ket-thuc-duong-cao-toc', 'noi-giao-nhau-chay-theo-vong-xuyen', 'toc-do-toi-da-100', 'toc-do-toi-da-50', 'toc-do-toi-da-60', 'toc-do-toi-da-70', 'toc-do-toi-da-80', 'toc-do-toi-da-cho-phep', 'toc-do-toi-thieu-60', 'toc-do-toi-thieu-cho-phep']
+
+roboflow:
+  workspace: vietnam-traffic-sign-recognition-benchmark
+  project: vietnam-traffic-sign-recognition-m8mxk
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/vietnam-traffic-sign-recognition-benchmark/vietnam-traffic-sign-recognition-m8mxk/dataset/1
